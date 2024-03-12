@@ -9,7 +9,7 @@
 |  处理器   |                      Intel `i9-9980HK`                       |
 |   内存    |                   64 GB DDR4 2666-3200MHz                    |
 | 硬盘1/2/3 |                    支持多至两个 m.2 NVMe                     |
-|   显卡    |                   Intel UHD 630 / AMD 独显                   |
+|   显卡    |                   Intel UHD 630 / AMD 独显<br /> 支持全尺寸显卡，支持RX6600-RX6950|
 | 显示接口  |               雷电3 x2 + HDMI 2.0a x1(4K@60Hz)               |
 |   声卡    |                       USB Audio Device                       |
 | 无线网卡  | m.2 NGFF插槽，默认出厂为 `Intel® Wi-Fi 6 AX200`<br />可更换为 `BCM94360Z3` 免驱卡(Sonoma下需要打OCLP补丁) |
